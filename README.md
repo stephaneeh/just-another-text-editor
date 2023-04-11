@@ -16,7 +16,7 @@ Download this repo to your location machine. In your command line interface (cli
 
 ## Usage
 
-Ensure you have seeded your data where required. Run the following command at the root of your project to start the application
+Run the following command at the root of your project to start the application
 
 ```md
 > run npm start
